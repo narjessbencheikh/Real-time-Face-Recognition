@@ -10,6 +10,7 @@ Overall, this project offers a practical demonstration of real-time face recogni
 
 
 <img src="https://github.com/user-attachments/assets/3ce3189f-6d6f-4592-8c6c-23a1fd18b7fd" alt="image_original" width="400"/>
-<img src="https://github.com/user-attachments/assets/ef962110-97fc-428b-8245-488e10cd2c9f" alt="image" width="400"/>
+
+
 
 
