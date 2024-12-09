@@ -9,7 +9,6 @@ The objective of this project is to develop a system that can identify people in
 Overall, this project offers a practical demonstration of real-time face recognition, suitable for applications such as surveillance, security, or entertainment.
 
 
-<img src="https://github.com/user-attachments/assets/3ce3189f-6d6f-4592-8c6c-23a1fd18b7fd" alt="image_original" width="400"/>
 
 
 
